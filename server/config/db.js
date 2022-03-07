@@ -1,10 +1,10 @@
 /*   File name: db.js
-     Created By: Gagandeep Singh
-     Student ID: 301146293
+     Created By:NIMISH PATEL
+     Student ID: 301224017
      WebApp Name: Favourite Book MidTerm
 */
 
 module.exports = {
   //local MongoDB deployment ->
-  "URI": "mongodb+srv://sohamp10:Soham16bcer044@mongodbserver.qi9vo.mongodb.net/book_storee?retryWrites=true&w=majority"
-};
+  "URI": "mongodb+srv://nimishp20:Nimish_5043@cluster0.cxyt6.mongodb.net/book_store?retryWrites=true&w=majority"
+}

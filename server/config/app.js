@@ -1,6 +1,6 @@
-/*   File name: app.js
-     Created By: Gagandeep Singh
-     Student ID: 301146293
+/*   File name: APP.js
+     Created By:NIMISH PATEL
+     Student ID: 301224017
      WebApp Name: Favourite Book MidTerm
 */
 
